@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "workeredufenix",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "5c951c8d-00dd-4608-9fdf-9f04294a14d0",
+			"database_name": "db_edufenix"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
